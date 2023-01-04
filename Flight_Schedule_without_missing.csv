@@ -1,0 +1,81 @@
+flightNumber,airline,origin,destination,dayOfWeek,scheduledDepartureTime,scheduledArrivalTime
+559,GoAir,Lucknow,Hyderabad,Sunday,15:45,17:45
+580,GoAir,Kochi,Hyderabad,Monday,4:45,6:15
+587,GoAir,Kochi,Hyderabad,Tuesday,17:20,19:20
+587,GoAir,Kochi,Hyderabad,Monday,17:50,19:20
+553,GoAir,Ahmedabad,Hyderabad,Friday,11:05,12:45
+552,GoAir,Ahmedabad,Hyderabad,Saturday,20:35,22:20
+553,GoAir,Ahmedabad,Hyderabad,Thursday,11:00,12:45
+552,GoAir,Ahmedabad,Hyderabad,Wednesday,20:40,22:20
+701,GoAir,Jaipur,Hyderabad,Saturday,8:55,10:55
+431,GoAir,Jaipur,Hyderabad,Saturday,12:45,15:05
+894,GoAir,Bengaluru,Hyderabad,Saturday,11:30,12:40
+952,GoAir,Guwahati,Hyderabad,Sunday,7:25,9:45
+662,GoAir,Goa,Hyderabad,Saturday,10:45,12:10
+125,GoAir,Kolkata,Hyderabad,Tuesday,17:10,19:20
+424,GoAir,Hyderabad,Delhi,Monday,10:20,12:45
+996,GoAir,Hyderabad,Delhi,Thursday,22:55,1:25
+616,GoAir,Nagpur,Delhi,Sunday,8:25,10:05
+158,GoAir,Bagdogra,Delhi,Saturday,13:40,16:10
+151,GoAir,Bagdogra,Delhi,Monday,17:05,19:25
+134,GoAir,Patna,Delhi,Sunday,8:15,10:05
+635,Air India,Mumbai,Indore,Monday,7:05,8:25
+819,Air India,Delhi,Vadodara,Tuesday,17:45,19:35
+819,Air India,Delhi,Vadodara,Monday,17:45,19:35
+819,Air India,Delhi,Vadodara,Friday,17:45,19:35
+819,Air India,Delhi,Vadodara,Saturday,17:45,19:35
+753,Air India,Kolkata,Silchar,Thursday,5:50,7:00
+753,Air India,Kolkata,Silchar,Wednesday,5:50,7:00
+651,Air India,Mumbai,Raipur,Sunday,10:05,11:50
+457,Air India,Leh,Chandigarh,Monday,8:55,9:35
+851,Air India,Delhi,Pune,Tuesday,4:55,7:05
+849,Air India,Delhi,Pune,Monday,16:10,18:10
+853,Air India,Delhi,Pune,Friday,19:00,21:10
+471,Air India,Delhi,Udaipur,Saturday,13:20,14:35
+643,Air India,Mumbai,Udaipur,Thursday,14:10,15:40
+542,Air India,Hyderabad,Tirupati,Wednesday,12:35,13:35
+585,Air India,Bengaluru,Belgaum,Tuesday,7:25,8:30
+889,Air India,Delhi,Guwahati,Wednesday,9:30,12:10
+890,Air India,Imphal,Guwahati,Thursday,14:20,15:15
+727,Air India,Bengaluru,Guwahati,Friday,13:50,16:55
+3427,Air India,Dibrugarh,Guwahati,Monday,8:10,9:15
+722,Jet Airways,Guwahati,Delhi,Tuesday,18:15,21:15
+740,Jet Airways,Chennai,Delhi,Wednesday,11:20,14:25
+799,Jet Airways,Chennai,Delhi,Saturday,16:50,19:35
+852,Jet Airways,Aizwal,Delhi,Friday,15:05,18:05
+957,Jet Airways,Jorhat,Delhi,Monday,14:40,17:45
+894,Jet Airways,Bhopal,Delhi,Tuesday,7:30,8:55
+928,Jet Airways,Bhopal,Delhi,Wednesday,19:50,21:25
+902,Jet Airways,Kolkata,Delhi,Thursday,6:35,8:55
+964,Jet Airways,Kolkata,Delhi,Friday,9:25,12:10
+946,Jet Airways,Kolkata,Delhi,Monday,10:30,13:10
+638,Jet Airways,Srinagar,Delhi,Tuesday,13:00,14:35
+9818,Jet Airways,Srinagar,Delhi,Wednesday,13:00,14:35
+375,Jet Airways,Delhi,Varanasi,Thursday,11:10,12:30
+820,Jet Airways,Delhi,Varanasi,Friday,14:45,16:15
+3529,Jet Airways,Mumbai,Varanasi,Monday,8:55,11:05
+3529,Jet Airways,Mumbai,Varanasi,Tuesday,11:00,13:20
+370,Jet Airways,Khajuraho,Varanasi,Wednesday,14:20,15:25
+3554,Jet Airways,Allahabad,Nagpur,Thursday,16:20,18:15
+3554,Jet Airways,Allahabad,Nagpur,Friday,9:40,11:35
+313,Jet Airways,Mumbai,Aurangabad,Monday,5:20,6:20
+755,TestIndigo,Dehradun,Delhi,Tuesday,14:20,15:15
+755,TestIndigo,Dehradun,Delhi,Wednesday,14:20,15:15
+963,TestIndigo,Dehradun,Delhi,Thursday,18:10,19:05
+616,TestIndigo,Ahmedabad,Delhi,Friday,14:20,16:00
+616,TestIndigo,Ahmedabad,Delhi,Saturday,15:40,17:20
+162,TestIndigo,Ahmedabad,Delhi,Monday,17:40,19:25
+962,TestIndigo,Ahmedabad,Delhi,Tuesday,7:00,8:40
+616,TestIndigo,Ahmedabad,Delhi,Wednesday,14:20,16:00
+162,TestIndigo,Ahmedabad,Delhi,Thursday,17:40,19:25
+6606,TestIndigo,Jaipur,Delhi,Friday,6:00,6:55
+203,TestIndigo,Jaipur,Delhi,Wednesday,10:45,11:50
+665,TestIndigo,Jaipur,Delhi,Tuesday,19:35,20:40
+2135,TestIndigo,Bengaluru,Delhi,Friday,1:30,4:15
+2475,TestIndigo,Bengaluru,Delhi,Tuesday,4:00,6:50
+2132,TestIndigo,Bengaluru,Delhi,Wednesday,5:30,8:20
+2132,TestIndigo,Bengaluru,Delhi,Thursday,6:00,8:45
+2228,TestIndigo,Bengaluru,Delhi,Friday,7:10,10:05
+2367,TestIndigo,Bengaluru,Delhi,Wednesday,8:30,11:30
+2943,TestIndigo,Bengaluru,Delhi,Tuesday,10:05,13:00
+2108,TestIndigo,Bengaluru,Delhi,Friday,10:30,13:20
