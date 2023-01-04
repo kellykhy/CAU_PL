@@ -1,5 +1,5 @@
 # CAU_PL final project
-22405: 프로그래밍언어론 (Principles of Programming Language) Fall 20  22 
+22405: 프로그래밍언어론 (Principles of Programming Language) Fall 2022 
 
 과제: 디지털꾸러미만들기 (Digital Object Design)
 
