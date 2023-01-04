@@ -1,5 +1,6 @@
 # CAU_PL final project
 22405: 프로그래밍언어론 (Principles of Programming Language) Fall 20  22 
+
 과제: 디지털꾸러미만들기 (Digital Object Design)
 
 1. 데이터(data):  kaggle.com에공개된데이터세트를하나선택하여사용한다.단클래스를만들때아래에설명한프로그래밍요소가함께고려하여구현해야하므로적절한데이터세트 를선택하고데이터요소의일부를나누거나선택해서사용 할수있다.
